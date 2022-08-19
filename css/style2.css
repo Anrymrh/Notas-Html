@@ -1,0 +1,12 @@
+.contenedor{
+    width:800px;
+    height:500px;
+    border:25px solid red;
+    display:flex;
+
+}
+.elemento{
+    width:80px;
+    height:80px;
+    border:30px orange;
+}
