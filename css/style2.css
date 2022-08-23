@@ -1,7 +1,7 @@
 .contenedor{
     width:800px;
     height:500px;
-    border:25px solid red;
+    border:15px solid black;
     display:flex;
 
 }
@@ -9,4 +9,29 @@
     width:80px;
     height:80px;
     border:30px orange;
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+.cont-form{
+    border:15px solid orange;
+    padding: 20px;
+    margin: 20px;
+    width:800px;
+    height:800px;
+    display:flex;
+    justify-content: center;
+
+}
+.elem-form{
+    font-size: 20px;
+    border:solid black;
+   
+
 }
